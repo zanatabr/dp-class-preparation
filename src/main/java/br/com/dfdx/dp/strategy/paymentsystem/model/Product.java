@@ -1,4 +1,4 @@
-package br.com.dfdx.dp.one.strategy.paymentsystem.model;
+package br.com.dfdx.dp.strategy.paymentsystem.model;
 
 public class Product {
     private String upcCode;

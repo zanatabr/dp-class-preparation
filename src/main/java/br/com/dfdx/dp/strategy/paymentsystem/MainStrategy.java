@@ -1,9 +1,9 @@
-package br.com.dfdx.dp.one.strategy.paymentsystem;
+package br.com.dfdx.dp.strategy.paymentsystem;
 
-import br.com.dfdx.dp.one.strategy.paymentsystem.controller.CreditCardAlgorithm;
-import br.com.dfdx.dp.one.strategy.paymentsystem.controller.PayPalAlgorithm;
-import br.com.dfdx.dp.one.strategy.paymentsystem.controller.ShoppingCart;
-import br.com.dfdx.dp.one.strategy.paymentsystem.model.Product;
+import br.com.dfdx.dp.strategy.paymentsystem.controller.CreditCardAlgorithm;
+import br.com.dfdx.dp.strategy.paymentsystem.controller.PayPalAlgorithm;
+import br.com.dfdx.dp.strategy.paymentsystem.controller.ShoppingCart;
+import br.com.dfdx.dp.strategy.paymentsystem.model.Product;
 
 public class MainStrategy {
 

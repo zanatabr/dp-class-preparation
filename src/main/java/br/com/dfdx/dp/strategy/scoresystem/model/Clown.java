@@ -1,6 +1,6 @@
-package br.com.dfdx.dp.one.strategy.scoresystem.model;
+package br.com.dfdx.dp.strategy.scoresystem.model;
 
-import br.com.dfdx.dp.one.strategy.scoresystem.controller.ScoreAlgorithmBase;
+import br.com.dfdx.dp.strategy.scoresystem.controller.ScoreAlgorithmBase;
 
 public class Clown extends ScoreAlgorithmBase {
     @Override

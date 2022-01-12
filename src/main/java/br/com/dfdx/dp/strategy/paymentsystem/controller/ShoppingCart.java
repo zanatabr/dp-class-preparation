@@ -1,7 +1,7 @@
-package br.com.dfdx.dp.one.strategy.paymentsystem.controller;
+package br.com.dfdx.dp.strategy.paymentsystem.controller;
 
-import br.com.dfdx.dp.one.strategy.paymentsystem.model.Payment;
-import br.com.dfdx.dp.one.strategy.paymentsystem.model.Product;
+import br.com.dfdx.dp.strategy.paymentsystem.model.Payment;
+import br.com.dfdx.dp.strategy.paymentsystem.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

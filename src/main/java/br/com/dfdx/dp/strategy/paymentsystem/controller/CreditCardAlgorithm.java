@@ -1,6 +1,6 @@
-package br.com.dfdx.dp.one.strategy.paymentsystem.controller;
+package br.com.dfdx.dp.strategy.paymentsystem.controller;
 
-import br.com.dfdx.dp.one.strategy.paymentsystem.model.Payment;
+import br.com.dfdx.dp.strategy.paymentsystem.model.Payment;
 
 public class CreditCardAlgorithm implements Payment {
 
