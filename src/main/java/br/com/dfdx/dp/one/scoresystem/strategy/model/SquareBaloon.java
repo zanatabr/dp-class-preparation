@@ -1,6 +1,6 @@
-package br.com.dfdx.dp.one.strategy.model;
+package br.com.dfdx.dp.one.scoresystem.strategy.model;
 
-import br.com.dfdx.dp.one.strategy.controller.ScoreAlgorithmBase;
+import br.com.dfdx.dp.one.scoresystem.strategy.controller.ScoreAlgorithmBase;
 
 public class SquareBaloon extends ScoreAlgorithmBase {
     @Override

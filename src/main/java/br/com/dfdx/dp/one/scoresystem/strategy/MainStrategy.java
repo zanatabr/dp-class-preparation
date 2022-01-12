@@ -1,9 +1,9 @@
-package br.com.dfdx.dp.one.strategy;
+package br.com.dfdx.dp.one.scoresystem.strategy;
 
-import br.com.dfdx.dp.one.strategy.controller.ScoreBoard;
-import br.com.dfdx.dp.one.strategy.model.Baloon;
-import br.com.dfdx.dp.one.strategy.model.Clown;
-import br.com.dfdx.dp.one.strategy.model.SquareBaloon;
+import br.com.dfdx.dp.one.scoresystem.strategy.controller.ScoreBoard;
+import br.com.dfdx.dp.one.scoresystem.strategy.model.Baloon;
+import br.com.dfdx.dp.one.scoresystem.strategy.model.Clown;
+import br.com.dfdx.dp.one.scoresystem.strategy.model.SquareBaloon;
 
 public class MainStrategy {
 

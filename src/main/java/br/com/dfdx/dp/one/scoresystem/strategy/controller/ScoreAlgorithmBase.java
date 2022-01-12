@@ -1,4 +1,4 @@
-package br.com.dfdx.dp.one.strategy.controller;
+package br.com.dfdx.dp.one.scoresystem.strategy.controller;
 
 public abstract  class ScoreAlgorithmBase {
 
