@@ -1,6 +1,6 @@
-package br.com.dfdx.dp.one.scoresystem.strategy.model;
+package br.com.dfdx.dp.one.strategy.scoresystem.model;
 
-import br.com.dfdx.dp.one.scoresystem.strategy.controller.ScoreAlgorithmBase;
+import br.com.dfdx.dp.one.strategy.scoresystem.controller.ScoreAlgorithmBase;
 
 public class Baloon extends ScoreAlgorithmBase {
     @Override

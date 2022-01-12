@@ -1,4 +1,4 @@
-package br.com.dfdx.dp.one.scoresystem.strategy.controller;
+package br.com.dfdx.dp.one.strategy.scoresystem.controller;
 
 public class ScoreBoard {
 
